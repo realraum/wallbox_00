@@ -17,5 +17,5 @@ Assembly of box
 8. Mount a fitting spring by screwing it hrough hole in  back-part and top-part.
 9. Heat spring in relaxed state and meld+glue ```schmetterling_federschutz.stl``` onto spring so no-one hurts her/himself.
 10. Use clear lacquer to make box hygene and waterproof.
-11. Mount with spaces to the wall.
+11. Use 3d-printed spacers between wall and box. Screw to wall.
 
